@@ -20,13 +20,12 @@ This is a simple To-Do List web application built using **HTML, CSS, and JavaScr
 - Structuring a simple frontend project
 
 ## 📸 Preview
-(Add screenshots here if you want)
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/6d6f4528-9e84-46a1-b8db-87675f7472a0" />
+<img width="1914" height="865" alt="image" src="https://github.com/user-attachments/assets/3f984090-c88b-4e0f-82f5-d77af36d6933" />
+
 
 ## ⚠️ Note
 This project was built while learning the basics, so the code may not follow advanced practices. Sharing this as part of my journey.
-
-## 🔗 Live Demo (optional)
-(Add link if hosted)
 
 ---
 
