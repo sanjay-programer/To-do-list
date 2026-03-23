@@ -1,0 +1,31 @@
+$ history
+  1  git --version
+  2  ls
+  3  pwd
+  4  git config --global user.name "shambhavi-suresh"
+  5  git config --global user.email "4mh23cb036@gmail.com"
+  6  git config --list
+  7  ls -a
+  8  mkdir devops_lab
+  9  cd devops_lab
+ 10  mkdir lab2_proj
+ 11  cd lab2_proj
+ 12  ls
+ 13  git init
+ 14  ls -a
+ 15  git status
+ 16  touch abc.txt
+ 17  ls
+ 18  echo "Initial content" > abc.txt
+ 19  git status
+ 20  git add abc.txt
+ 21  git commit -m "added abc.txt for lab task"
+ 22  git log
+ 23  git status
+ 24  touch index.html
+ 25  git add .
+ 26  git commit -m "added index file and paragraph tag"
+ 27  git log --oneline
+ 28  git status
+ 29  git remote add origin https://github.com/shambhavi-suresh/devops_lab.git
+ 30  git push origin main
